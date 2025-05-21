@@ -1,6 +1,6 @@
 #pragma once
 
-enum SESSION_STATE { ST_FREE, ST_INGAME };
+enum SESSION_STATE { ST_FREE, ST_WAIT, ST_INGAME };
 class SESSION {
 	OVER_EXP session_recv_over;
 

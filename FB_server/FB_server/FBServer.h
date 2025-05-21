@@ -46,8 +46,7 @@ public:
 
 	int get_new_client_id();
 
-	void find_sessionID_playerindex_by_clientID(int);
-
+	void process_packet(int, char*);
 	void do_send();
 	void do_recv();
 

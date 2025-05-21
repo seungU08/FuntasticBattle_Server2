@@ -5,6 +5,9 @@ constexpr int MAX_PLAYER = 600;
 constexpr int SESSION_PLAYER_MAX = 4;
 constexpr int MAX_SESSION = MAX_PLAYER / SESSION_PLAYER_MAX;
 
+constexpr int C_LOGIN_PACKET = 1;
+constexpr int C_MOVE_PACKET = 2;
+constexpr int C_PLAYER_PACKET = 3;
 
 
 

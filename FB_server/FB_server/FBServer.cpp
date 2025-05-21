@@ -56,7 +56,7 @@ int FBServer::get_new_client_id()
 {
 	for (int i = 0; i < MAX_SESSION; ++i) {
 		std::lock_guard <std::mutex> ll{ sessions[i].session_lock };
-		if (sessions[i].sessionState == ST_FREE)
+		if (sessions[i].sessionState != ST_INGAME)
 			for (int j = 0; j < SESSION_PLAYER_MAX; ++j) {
 				std::lock_guard <std::mutex> pl{ sessions[i].players[j].player_lock };
 				if (sessions[i].players[j].p_state == P_FREE) {
@@ -66,6 +66,26 @@ int FBServer::get_new_client_id()
 			
 	}
 	return -1;
+}
+
+void FBServer::process_packet(int key, char* p)	// 패킷처리
+{
+	const unsigned char packet_type = p[1];
+	switch (packet_type) {
+	case C_LOGIN_PACKET:
+	{
+		
+		break;
+	}
+	case C_MOVE_PACKET: {
+		
+		
+		break;
+	}
+	default:
+		std::cout << "Error Invalid Packet Type\n";
+		exit(-1);
+	}
 }
 
 void FBServer::do_send()
@@ -132,7 +152,7 @@ void FBServer::ThreadWork()
 			while (remain_data > 0) {
 				int packet_size = p[0];
 				if (packet_size <= remain_data) {
-					process_packet(static_cast<int>(key), p);		// 여기서부터 다시해야함
+					process_packet(static_cast<int>(key), p);		
 					p = p + packet_size;
 					remain_data = remain_data - packet_size;
 				}

@@ -1,53 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\2019180029seungu2DGP\\FuntasticBattle_server\\FB_server\\",
+  "WorkspaceRootPath": "C:\\githubfile\\FuntasticBattle_Server2\\FB_server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0465CD0B-C397-46FB-BC41-4DA98DDD2BA8}|FB_server\\FB_server.vcxproj|C:\\2019180029seungu2DGP\\FuntasticBattle_server\\FB_server\\FB_server\\FBServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{0465CD0B-C397-46FB-BC41-4DA98DDD2BA8}|FB_server\\FB_server.vcxproj|C:\\githubfile\\FuntasticBattle_Server2\\FB_server\\FB_server\\FBServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0465CD0B-C397-46FB-BC41-4DA98DDD2BA8}|FB_server\\FB_server.vcxproj|solutionrelative:FB_server\\FBServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0465CD0B-C397-46FB-BC41-4DA98DDD2BA8}|FB_server\\FB_server.vcxproj|C:\\2019180029seungu2DGP\\FuntasticBattle_server\\FB_server\\FB_server\\FBServer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{0465CD0B-C397-46FB-BC41-4DA98DDD2BA8}|FB_server\\FB_server.vcxproj|C:\\githubfile\\FuntasticBattle_Server2\\FB_server\\FB_server\\FBServer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0465CD0B-C397-46FB-BC41-4DA98DDD2BA8}|FB_server\\FB_server.vcxproj|solutionrelative:FB_server\\FBServer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0465CD0B-C397-46FB-BC41-4DA98DDD2BA8}|FB_server\\FB_server.vcxproj|C:\\2019180029seungu2DGP\\FuntasticBattle_server\\FB_server\\FB_server\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0465CD0B-C397-46FB-BC41-4DA98DDD2BA8}|FB_server\\FB_server.vcxproj|solutionrelative:FB_server\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0465CD0B-C397-46FB-BC41-4DA98DDD2BA8}|FB_server\\FB_server.vcxproj|C:\\2019180029seungu2DGP\\FuntasticBattle_server\\FB_server\\FB_server\\FBSession.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{0465CD0B-C397-46FB-BC41-4DA98DDD2BA8}|FB_server\\FB_server.vcxproj|C:\\githubfile\\FuntasticBattle_Server2\\FB_server\\FB_server\\FBSession.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0465CD0B-C397-46FB-BC41-4DA98DDD2BA8}|FB_server\\FB_server.vcxproj|solutionrelative:FB_server\\FBSession.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0465CD0B-C397-46FB-BC41-4DA98DDD2BA8}|FB_server\\FB_server.vcxproj|C:\\2019180029seungu2DGP\\FuntasticBattle_server\\FB_server\\FB_server\\protocol.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{0465CD0B-C397-46FB-BC41-4DA98DDD2BA8}|FB_server\\FB_server.vcxproj|C:\\githubfile\\FuntasticBattle_Server2\\FB_server\\FB_server\\protocol.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0465CD0B-C397-46FB-BC41-4DA98DDD2BA8}|FB_server\\FB_server.vcxproj|solutionrelative:FB_server\\protocol.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0465CD0B-C397-46FB-BC41-4DA98DDD2BA8}|FB_server\\FB_server.vcxproj|C:\\2019180029seungu2DGP\\FuntasticBattle_server\\FB_server\\FB_server\\ServerMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{0465CD0B-C397-46FB-BC41-4DA98DDD2BA8}|FB_server\\FB_server.vcxproj|C:\\githubfile\\FuntasticBattle_Server2\\FB_server\\FB_server\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0465CD0B-C397-46FB-BC41-4DA98DDD2BA8}|FB_server\\FB_server.vcxproj|solutionrelative:FB_server\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0465CD0B-C397-46FB-BC41-4DA98DDD2BA8}|FB_server\\FB_server.vcxproj|C:\\githubfile\\FuntasticBattle_Server2\\FB_server\\FB_server\\ServerMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0465CD0B-C397-46FB-BC41-4DA98DDD2BA8}|FB_server\\FB_server.vcxproj|solutionrelative:FB_server\\ServerMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0465CD0B-C397-46FB-BC41-4DA98DDD2BA8}|FB_server\\FB_server.vcxproj|C:\\2019180029seungu2DGP\\FuntasticBattle_server\\FB_server\\FB_server\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{0465CD0B-C397-46FB-BC41-4DA98DDD2BA8}|FB_server\\FB_server.vcxproj|C:\\githubfile\\FuntasticBattle_Server2\\FB_server\\FB_server\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0465CD0B-C397-46FB-BC41-4DA98DDD2BA8}|FB_server\\FB_server.vcxproj|solutionrelative:FB_server\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0465CD0B-C397-46FB-BC41-4DA98DDD2BA8}|FB_server\\FB_server.vcxproj|C:\\2019180029seungu2DGP\\FuntasticBattle_server\\FB_server\\FB_server\\FBSession.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{0465CD0B-C397-46FB-BC41-4DA98DDD2BA8}|FB_server\\FB_server.vcxproj|C:\\githubfile\\FuntasticBattle_Server2\\FB_server\\FB_server\\FBSession.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0465CD0B-C397-46FB-BC41-4DA98DDD2BA8}|FB_server\\FB_server.vcxproj|solutionrelative:FB_server\\FBSession.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0465CD0B-C397-46FB-BC41-4DA98DDD2BA8}|FB_server\\FB_server.vcxproj|C:\\2019180029seungu2DGP\\FuntasticBattle_server\\FB_server\\FB_server\\Room.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{0465CD0B-C397-46FB-BC41-4DA98DDD2BA8}|FB_server\\FB_server.vcxproj|C:\\githubfile\\FuntasticBattle_Server2\\FB_server\\FB_server\\Room.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0465CD0B-C397-46FB-BC41-4DA98DDD2BA8}|FB_server\\FB_server.vcxproj|solutionrelative:FB_server\\Room.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0465CD0B-C397-46FB-BC41-4DA98DDD2BA8}|FB_server\\FB_server.vcxproj|C:\\2019180029seungu2DGP\\FuntasticBattle_server\\FB_server\\FB_server\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{0465CD0B-C397-46FB-BC41-4DA98DDD2BA8}|FB_server\\FB_server.vcxproj|C:\\githubfile\\FuntasticBattle_Server2\\FB_server\\FB_server\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0465CD0B-C397-46FB-BC41-4DA98DDD2BA8}|FB_server\\FB_server.vcxproj|solutionrelative:FB_server\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0465CD0B-C397-46FB-BC41-4DA98DDD2BA8}|FB_server\\FB_server.vcxproj|C:\\2019180029seungu2DGP\\FuntasticBattle_server\\FB_server\\FB_server\\Room.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{0465CD0B-C397-46FB-BC41-4DA98DDD2BA8}|FB_server\\FB_server.vcxproj|C:\\githubfile\\FuntasticBattle_Server2\\FB_server\\FB_server\\Room.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0465CD0B-C397-46FB-BC41-4DA98DDD2BA8}|FB_server\\FB_server.vcxproj|solutionrelative:FB_server\\Room.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0465CD0B-C397-46FB-BC41-4DA98DDD2BA8}|FB_server\\FB_server.vcxproj|C:\\2019180029seungu2DGP\\FuntasticBattle_server\\FB_server\\FB_server\\FB_server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{0465CD0B-C397-46FB-BC41-4DA98DDD2BA8}|FB_server\\FB_server.vcxproj|C:\\githubfile\\FuntasticBattle_Server2\\FB_server\\FB_server\\FB_server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0465CD0B-C397-46FB-BC41-4DA98DDD2BA8}|FB_server\\FB_server.vcxproj|solutionrelative:FB_server\\FB_server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -67,54 +67,50 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FBServer.cpp",
-              "DocumentMoniker": "C:\\2019180029seungu2DGP\\FuntasticBattle_server\\FB_server\\FB_server\\FBServer.cpp",
+              "DocumentMoniker": "C:\\githubfile\\FuntasticBattle_Server2\\FB_server\\FB_server\\FBServer.cpp",
               "RelativeDocumentMoniker": "FB_server\\FBServer.cpp",
-              "ToolTip": "C:\\2019180029seungu2DGP\\FuntasticBattle_server\\FB_server\\FB_server\\FBServer.cpp",
+              "ToolTip": "C:\\githubfile\\FuntasticBattle_Server2\\FB_server\\FB_server\\FBServer.cpp",
               "RelativeToolTip": "FB_server\\FBServer.cpp",
-              "ViewState": "AgIAAGgAAAAAAAAAAAAAAIYAAAA+AAAAAAAAAA==",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAADoAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-07T20:29:43.03Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:6:0:{5d51d786-731c-4256-bf95-6a6dd495c7d7}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "FBServer.h",
-              "DocumentMoniker": "C:\\2019180029seungu2DGP\\FuntasticBattle_server\\FB_server\\FB_server\\FBServer.h",
+              "DocumentMoniker": "C:\\githubfile\\FuntasticBattle_Server2\\FB_server\\FB_server\\FBServer.h",
               "RelativeDocumentMoniker": "FB_server\\FBServer.h",
-              "ToolTip": "C:\\2019180029seungu2DGP\\FuntasticBattle_server\\FB_server\\FB_server\\FBServer.h",
+              "ToolTip": "C:\\githubfile\\FuntasticBattle_Server2\\FB_server\\FB_server\\FBServer.h",
               "RelativeToolTip": "FB_server\\FBServer.h",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAB4AAAAhAAAAAAAAAA==",
+              "ViewState": "AQIAABsAAAAAAAAAAADwvywAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-07T20:27:57.885Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "FBSession.h",
-              "DocumentMoniker": "C:\\2019180029seungu2DGP\\FuntasticBattle_server\\FB_server\\FB_server\\FBSession.h",
+              "DocumentMoniker": "C:\\githubfile\\FuntasticBattle_Server2\\FB_server\\FB_server\\FBSession.h",
               "RelativeDocumentMoniker": "FB_server\\FBSession.h",
-              "ToolTip": "C:\\2019180029seungu2DGP\\FuntasticBattle_server\\FB_server\\FB_server\\FBSession.h",
+              "ToolTip": "C:\\githubfile\\FuntasticBattle_Server2\\FB_server\\FB_server\\FBSession.h",
               "RelativeToolTip": "FB_server\\FBSession.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwIAAAAdAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-07T20:29:30.888Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Player.h",
-              "DocumentMoniker": "C:\\2019180029seungu2DGP\\FuntasticBattle_server\\FB_server\\FB_server\\Player.h",
+              "DocumentMoniker": "C:\\githubfile\\FuntasticBattle_Server2\\FB_server\\FB_server\\Player.h",
               "RelativeDocumentMoniker": "FB_server\\Player.h",
-              "ToolTip": "C:\\2019180029seungu2DGP\\FuntasticBattle_server\\FB_server\\FB_server\\Player.h",
+              "ToolTip": "C:\\githubfile\\FuntasticBattle_Server2\\FB_server\\FB_server\\Player.h",
               "RelativeToolTip": "FB_server\\Player.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAQAAAAAAAAAA==",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvyEAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-07T20:46:42.656Z",
               "EditorCaption": ""
@@ -123,24 +119,23 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "ServerMain.cpp",
-              "DocumentMoniker": "C:\\2019180029seungu2DGP\\FuntasticBattle_server\\FB_server\\FB_server\\ServerMain.cpp",
+              "DocumentMoniker": "C:\\githubfile\\FuntasticBattle_Server2\\FB_server\\FB_server\\ServerMain.cpp",
               "RelativeDocumentMoniker": "FB_server\\ServerMain.cpp",
-              "ToolTip": "C:\\2019180029seungu2DGP\\FuntasticBattle_server\\FB_server\\FB_server\\ServerMain.cpp",
+              "ToolTip": "C:\\githubfile\\FuntasticBattle_Server2\\FB_server\\FB_server\\ServerMain.cpp",
               "RelativeToolTip": "FB_server\\ServerMain.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-07T20:26:41.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T20:26:41.862Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "protocol.h",
-              "DocumentMoniker": "C:\\2019180029seungu2DGP\\FuntasticBattle_server\\FB_server\\FB_server\\protocol.h",
+              "DocumentMoniker": "C:\\githubfile\\FuntasticBattle_Server2\\FB_server\\FB_server\\protocol.h",
               "RelativeDocumentMoniker": "FB_server\\protocol.h",
-              "ToolTip": "C:\\2019180029seungu2DGP\\FuntasticBattle_server\\FB_server\\FB_server\\protocol.h",
+              "ToolTip": "C:\\githubfile\\FuntasticBattle_Server2\\FB_server\\FB_server\\protocol.h",
               "RelativeToolTip": "FB_server\\protocol.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-07T20:26:58.628Z",
               "EditorCaption": ""
@@ -149,79 +144,73 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "pch.h",
-              "DocumentMoniker": "C:\\2019180029seungu2DGP\\FuntasticBattle_server\\FB_server\\FB_server\\pch.h",
+              "DocumentMoniker": "C:\\githubfile\\FuntasticBattle_Server2\\FB_server\\FB_server\\pch.h",
               "RelativeDocumentMoniker": "FB_server\\pch.h",
-              "ToolTip": "C:\\2019180029seungu2DGP\\FuntasticBattle_server\\FB_server\\FB_server\\pch.h",
+              "ToolTip": "C:\\githubfile\\FuntasticBattle_Server2\\FB_server\\FB_server\\pch.h",
               "RelativeToolTip": "FB_server\\pch.h",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-07T20:26:50.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T20:26:50.284Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "FBSession.cpp",
-              "DocumentMoniker": "C:\\2019180029seungu2DGP\\FuntasticBattle_server\\FB_server\\FB_server\\FBSession.cpp",
+              "DocumentMoniker": "C:\\githubfile\\FuntasticBattle_Server2\\FB_server\\FB_server\\FBSession.cpp",
               "RelativeDocumentMoniker": "FB_server\\FBSession.cpp",
-              "ToolTip": "C:\\2019180029seungu2DGP\\FuntasticBattle_server\\FB_server\\FB_server\\FBSession.cpp",
+              "ToolTip": "C:\\githubfile\\FuntasticBattle_Server2\\FB_server\\FB_server\\FBSession.cpp",
               "RelativeToolTip": "FB_server\\FBSession.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-07T20:29:21.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T20:29:21.67Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Room.h",
-              "DocumentMoniker": "C:\\2019180029seungu2DGP\\FuntasticBattle_server\\FB_server\\FB_server\\Room.h",
+              "DocumentMoniker": "C:\\githubfile\\FuntasticBattle_Server2\\FB_server\\FB_server\\Room.h",
               "RelativeDocumentMoniker": "FB_server\\Room.h",
-              "ToolTip": "C:\\2019180029seungu2DGP\\FuntasticBattle_server\\FB_server\\FB_server\\Room.h",
+              "ToolTip": "C:\\githubfile\\FuntasticBattle_Server2\\FB_server\\FB_server\\Room.h",
               "RelativeToolTip": "FB_server\\Room.h",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvxIAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-07T20:44:15.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T20:44:15.793Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Player.cpp",
-              "DocumentMoniker": "C:\\2019180029seungu2DGP\\FuntasticBattle_server\\FB_server\\FB_server\\Player.cpp",
+              "DocumentMoniker": "C:\\githubfile\\FuntasticBattle_Server2\\FB_server\\FB_server\\Player.cpp",
               "RelativeDocumentMoniker": "FB_server\\Player.cpp",
-              "ToolTip": "C:\\2019180029seungu2DGP\\FuntasticBattle_server\\FB_server\\FB_server\\Player.cpp",
+              "ToolTip": "C:\\githubfile\\FuntasticBattle_Server2\\FB_server\\FB_server\\Player.cpp",
               "RelativeToolTip": "FB_server\\Player.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-07T20:46:33.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T20:46:33.408Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Room.cpp",
-              "DocumentMoniker": "C:\\2019180029seungu2DGP\\FuntasticBattle_server\\FB_server\\FB_server\\Room.cpp",
+              "DocumentMoniker": "C:\\githubfile\\FuntasticBattle_Server2\\FB_server\\FB_server\\Room.cpp",
               "RelativeDocumentMoniker": "FB_server\\Room.cpp",
-              "ToolTip": "C:\\2019180029seungu2DGP\\FuntasticBattle_server\\FB_server\\FB_server\\Room.cpp",
+              "ToolTip": "C:\\githubfile\\FuntasticBattle_Server2\\FB_server\\FB_server\\Room.cpp",
               "RelativeToolTip": "FB_server\\Room.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-07T20:44:06.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T20:44:06.8Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "FB_server.cpp",
-              "DocumentMoniker": "C:\\2019180029seungu2DGP\\FuntasticBattle_server\\FB_server\\FB_server\\FB_server.cpp",
+              "DocumentMoniker": "C:\\githubfile\\FuntasticBattle_Server2\\FB_server\\FB_server\\FB_server.cpp",
               "RelativeDocumentMoniker": "FB_server\\FB_server.cpp",
-              "ToolTip": "C:\\2019180029seungu2DGP\\FuntasticBattle_server\\FB_server\\FB_server\\FB_server.cpp",
+              "ToolTip": "C:\\githubfile\\FuntasticBattle_Server2\\FB_server\\FB_server\\FB_server.cpp",
               "RelativeToolTip": "FB_server\\FB_server.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-07T20:28:07.885Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T20:28:07.885Z"
             },
             {
               "$type": "Document",
